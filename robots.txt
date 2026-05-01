@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maulikpalladiumhub.github.io/notes-kqrjct/sitemap.xml
